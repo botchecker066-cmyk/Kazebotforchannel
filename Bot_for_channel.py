@@ -25,7 +25,7 @@ MT_FILE_ID = "BQACAgUAAxkBAAIEDGmfKRCao7aJoq19aqoqjsWKUYs_AAJZHQACIAH5VBOyW_iQUk
 ANDLUA_FILE_ID = "BQACAgUAAxkBAAIECGmfKDEgnHs85TrdnBu9zRYoaXpgAAJSHQACIAH5VMFBC36WUb26OgQ"
 DUAL_FILE_ID = "BQACAgUAAxkBAAIECmmfKLtu5QOKjzG1zScNZCOG2e5uAAJYHQACIAH5VMkZ7jvEeEguOgQ"
 TERMUX_FILE_ID = "BQACAgUAAxkBAAIEDmmfKUMpTKGZm4jMgbSgKIp72k-hAAJaHQACIAH5VK7Esi8AAZ7fojoE"
-SCRIPT_FILE_ID = "BQACAgUAAyEFAATC_WD3AAL-0moN5hxPsmoBvw2Y9Yd3XaCCA3dgAAIZHwAC9nJxVBJPRA8IJN-rOwQ"
+SCRIPT_FILE_ID = "BQACAgUAAxkBAAII3GoWaL6rCkABDg43sxvFOW64dqRyAALRHwACtHGxVKF5JGTq5cjvOwQ"
 INJECTOR_FILE_ID = "BQACAgUAAxkBAAIIumoQmsqkhNKLwjg_TFls8w53dTKxAAIHIQACyPqIVJvNSxq8rYITOwQ"
 AMY_FILE_ID = "BQACAgUAAyEFAATC_WD3AAKnOmm2VopEy0Vc_BOdmto5-1N53P-ZAAJMGgACPL-5VRbdmmqlskYeOgQ"
 SKIN_FILE_ID = "BQACAgUAAyEFAATC_WD3AAL-1GoN5muA9aiW2x_LO66UyEst2iRMAAKIKAACaEVoVE_rwa0hrB_7OwQ"
@@ -415,7 +415,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await msg.reply_document(
                 document=SCRIPT_FILE_ID,
                 caption=(
-                    "🔥 **Codm Premium Script – New Update v2.0**\n\n"
+                    "🔥 **Codm Premium Script – New Update v3.0**\n\n"
                     "Exclusive script developed by **@KAZEHAYAMODZ**.\n"
                     "Optimized for better performance and stability.\n\n"
                     "✔ Make sure you are using the latest injector version."
