@@ -415,7 +415,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await msg.reply_document(
                 document=SCRIPT_FILE_ID,
                 caption=(
-                    "🔥 **Codm Premium Script – New Update v3.0**\n\n"
+                    "🔥 **Codm Premium Script – New Update v4.0**\n\n"
                     "Exclusive script developed by **@KAZEHAYAMODZ**.\n"
                     "Optimized for better performance and stability.\n\n"
                     "✔ Make sure you are using the latest injector version."
