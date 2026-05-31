@@ -147,7 +147,7 @@ async def welcome(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.effective_chat.id
 
     # PALITAN MO ITO: Gamitin ang link ng video post mula sa channel mo
-    VIDEO_CHANNEL_LINK = "https://t.me/KazeFannyVid/3" 
+    VIDEO_CHANNEL_LINK = "https://t.me/KazeFannyVid/4" 
 
     for m in msg.new_chat_members:
         if m.id == context.bot.id: continue
