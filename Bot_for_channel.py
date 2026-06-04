@@ -26,9 +26,9 @@ ANDLUA_FILE_ID = "BQACAgUAAxkBAAIECGmfKDEgnHs85TrdnBu9zRYoaXpgAAJSHQACIAH5VMFBC3
 DUAL_FILE_ID = "BQACAgUAAxkBAAII82odK-SNtqWq2AZj5iMlqeUuOjeiAAIYHwACGIroVGgZ13JfWtweOwQ"
 TERMUX_FILE_ID = "BQACAgUAAxkBAAIEDmmfKUMpTKGZm4jMgbSgKIp72k-hAAJaHQACIAH5VK7Esi8AAZ7fojoE"
 SCRIPT_FILE_ID = "BQACAgUAAxkBAAII3GoWaL6rCkABDg43sxvFOW64dqRyAALRHwACtHGxVKF5JGTq5cjvOwQ"
-INJECTOR_FILE_ID = "BQACAgUAAxkBAAIIumoQmsqkhNKLwjg_TFls8w53dTKxAAIHIQACyPqIVJvNSxq8rYITOwQ"
+INJECTOR_FILE_ID = "BQACAgUAAxkBAAIJFmohdaT7lBdzs8aNJqu-VJFL92-LAAIUJgACjOoJVWKG3aeSFkUEOwQ"
 AMY_FILE_ID = "BQACAgUAAyEFAATC_WD3AAKnOmm2VopEy0Vc_BOdmto5-1N53P-ZAAJMGgACPL-5VRbdmmqlskYeOgQ"
-SKIN_FILE_ID = "BQACAgUAAyEFAATC_WD3AAL-1GoN5muA9aiW2x_LO66UyEst2iRMAAKIKAACaEVoVE_rwa0hrB_7OwQ"
+SKIN_FILE_ID = "BQACAgUAAxkBAAIJFGohc0Rj4u_MYnAyxxNSCfusIHwsAAITJgACjOoJVTVu4LeoSSn0OwQ"
 
 BOT_ACTIVE = True  # Default na naka-ON ang bot
 
@@ -432,7 +432,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await msg.reply_document(
                 document=INJECTOR_FILE_ID,
                 caption=(
-                    "🚀 **Codm Injector – New Update v4.0**\n\n"
+                    "🚀 **Codm Injector – New Update v5.0**\n\n"
                     "All core features are included in this version:\n\n"
                     "✔ Updated Injector System\n"
                     "✔ Key Generator Access\n"
@@ -452,7 +452,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await msg.reply_document(
                 document=SKIN_FILE_ID,
                 caption=(
-                    "🌟 **Codm Injector – New Update v1.0**\n\n"
+                    "🌟 **Codm Injector – New Update v2.0**\n\n"
                     "All expensive skin are included in this version:\n\n"
                     "✔ Updated Skin-ForSrcipt\n"
                     "✔ For script user's only\n"
