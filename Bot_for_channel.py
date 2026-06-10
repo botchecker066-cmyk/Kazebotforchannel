@@ -418,8 +418,8 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     "🔥 **Codm Premium Script – New Update v5.0**\n\n"
                     "Exclusive script developed by **@KAZEHAYAMODZ**.\n"
                     "Optimized for better performance and stability.\n\n"
-                    "✔ Make sure you are using the latest injector version."
-                    "✔ Fix Auto Banned\n"
+                    "✔ Make sure you are using the latest injector version\n"
+                    "✔ Fix Auto Banned"
                 ),
                 parse_mode="Markdown"
             )
